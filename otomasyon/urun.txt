@@ -1,0 +1,8 @@
+Urun ID: 1
+Urun Adi: kalem
+Urun Fiyati: 60.5
+------------------------
+Urun ID: 2
+Urun Adi: silgi
+Urun Fiyati: 12.1
+------------------------
